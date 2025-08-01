@@ -46,7 +46,8 @@ ToDoListApp/
 
 ## 📸 Screenshot
 
-![App Screenshot](<img width="377" height="764" alt="Screenshot 2025-08-01 113805" src="https://github.com/user-attachments/assets/cc341f7e-33d8-4fc0-9599-bb6e12e78e2e" />)
+![App Screenshot]
+<img width="377" height="764" alt="Screenshot 2025-08-01 113805" src="https://github.com/user-attachments/assets/cc341f7e-33d8-4fc0-9599-bb6e12e78e2e" />
 <img width="393" height="823" alt="Screenshot 2025-08-01 113443" src="https://github.com/user-attachments/assets/1f225fa4-44ff-4e23-8204-96ac7e9dbb22" />
 <img width="406" height="836" alt="Screenshot 2025-08-01 113613" src="https://github.com/user-attachments/assets/b242e490-31ad-48dc-8764-23286b022196" />
 
